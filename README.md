@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vedika
-- 👀 I’m interested in WebDevlopment and Artificial intelligence.
-- 🌱 I’m currently learning fullstack web dev and C++
-- 💞️ I’m looking to collaborate on AI and web dev projects 
-- 📫 How to reach me here is my gmail: vedikskedar@gmail.com
+- 👀 I’m interested in software Development.
+- 🌱 I’m currently learning fullstack web dev 
+- 💞️ I’m looking to collaborate on java and c++ projects 
+- 📫 How to reach me? here is my gmail: vedikakedar2701@gmail.com
 
 <!---
 Ved-isk27/Ved-isk27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
